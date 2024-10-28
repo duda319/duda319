@@ -1,6 +1,9 @@
-## Bem vindo ao meu perfi: 
+## Bem vindo ao meu perfi:💙
+
 
 Meu nome é Maria Amorim
 
-- Estou estudando no Alura
--  ![image](https://github.com/user-attachments/assets/edb241f9-5b8d-4e45-853b-150d0447244
+- Estou estudando no Alura;
+- Espero qu eu aprenda algo;
+
+![](https://media.tenor.com/cU5QNoJT2EgAAAAj/naruto.gif)
